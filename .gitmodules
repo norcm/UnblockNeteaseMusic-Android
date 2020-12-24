@@ -1,0 +1,3 @@
+[submodule "app/src/main/assets/UnblockNeteaseMusic"]
+	path = app/src/main/assets/UnblockNeteaseMusic
+	url = https://github.com/nondanee/UnblockNeteaseMusic.git
